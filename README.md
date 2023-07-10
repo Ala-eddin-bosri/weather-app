@@ -1,2 +1,3 @@
-# weather-app
-weather-app with html , js and css
+
+
+This Weather app is made using API from https://openweathermap.org/ 
